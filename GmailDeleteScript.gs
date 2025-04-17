@@ -1,8 +1,8 @@
 function deleteMails() {
-  var mymail = ""; //enter user email
+  var mymail = "test@domain.com"; //enter your email account
 
    var d = new Date();
-   d.setDate(d.getDate() - 40); //can change number of days
+   d.setDate(d.getDate() - 40); //you can change number of days
    var start_date = formatDate(d);
    var pageToken;
    do {
