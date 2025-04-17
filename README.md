@@ -1,6 +1,7 @@
 **WARNING: DATA LOSS RISK**
 
 This script finds emails older than a certain number of days (which you set) and moves them straight to your **Bin**. Google normally keeps items in the Bin for about 30 days before **permanently deleting** them. You can also empty the Bin yourself anytime.
+
 **Prerequisites**
 
 * A Google Account (Gmail or Google Workspace).
